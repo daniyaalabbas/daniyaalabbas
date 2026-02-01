@@ -52,6 +52,7 @@
 - ⚡ Performance optimization
 - 🔐 Platform security
 - 📈 Scalability solutions
+-     Microsoft Azure 
 
 ---
 
