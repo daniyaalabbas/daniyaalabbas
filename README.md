@@ -34,7 +34,7 @@
 - **Security:** RBAC, TLS/SSL, RHACS, Network Policies
 - **Automation:** Jenkins, CI/CD, Git
 - **Monitoring:** Grafana, Azure Monitoring
-- **Networking:** SDN, CNI plugins, Routing
+- **Networking:** Routing
 
 ---
 
@@ -48,11 +48,10 @@
 ## Areas of Expertise
 
 - 🧩 OpenShift/Kubernetes troubleshooting
-- 🌍 Container networking and security
 - ⚡ Performance optimization
-- 🔐 Platform security
+- 🔐 Platform Monitoring
 - 📈 Scalability solutions
--     Microsoft Azure 
+-    Microsoft Azure 
 
 ---
 
