@@ -42,7 +42,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/abbasdaniyaal)
 - Email: abbasdaniyaal@outlook.com
-- Contact : +91 9177770741
+- Contact : +91 9177770741 / 6302093860
 ---
 
 ## Areas of Expertise
